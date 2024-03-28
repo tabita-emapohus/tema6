@@ -30,5 +30,13 @@ function myDreamHouse() {
     fill("black");
     stroke("white");
     rect(720, 600, 95, 199);
+     //nor
+    fill("white");
+    noStroke();
+    ellipse(150, 100, 100, 50);
+    ellipse(200, 100, 100, 50);
+    ellipse(180, 130, 100, 50);
+    ellipse(130, 130, 100, 50); 
+    ellipse(220, 130, 100, 50);
 
 }
