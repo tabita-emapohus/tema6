@@ -18,5 +18,17 @@ function myDreamHouse() {
     fill("black");
     stroke("black");
     rect(850,170,50,170,);
+    //ferastra1
+    fill("gray");
+    stroke("black");
+    rect(600, 450, 100, 100);
+    //ferastra2
+    fill("gray");
+    stroke("black");
+    rect(850, 450, 100, 100);
+    //usa
+    fill("black");
+    stroke("white");
+    rect(720, 600, 95, 199);
 
 }
